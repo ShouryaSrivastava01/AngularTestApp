@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/A",
+    "/B",
+    "/group",
+    "/group/A",
+    "/group/B",
+    "/standalone"
+  ]
+}
